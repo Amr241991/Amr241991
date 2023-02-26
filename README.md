@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Ahmed Abdulaziz Al-sarori</h1>
-<h3 align="center">A passionate frontend and backend developer from Yemen</h3>
+<h3 align="center">A passionate frontend and backend developer </h3>
 
 - 👀 I’m interested in web Development.
 - 🌱 I’m currently learning Full Stack Web development.
